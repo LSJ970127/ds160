@@ -1,0 +1,506 @@
+2019-03-01 12:22:11	Message: stale element reference: element is not attached to the page document
+  (Session info: chrome=71.0.3578.98)
+  (Driver info: chromedriver=2.42.591088 (7b2b2dca23cca0862f674758c9a3933e685c27d5),platform=Windows NT 6.1.7601 SP1 x86_64)
+
+id: ctl00_SiteContentPlaceHolder_FormView1_tbxUS_POC_ORGANIZATION
+value : HILTON LOS ANGELES SAN GABRIEL
+
+
+
+2019-03-01 12:31:38	Message: stale element reference: element is not attached to the page document
+  (Session info: chrome=71.0.3578.98)
+  (Driver info: chromedriver=2.42.591088 (7b2b2dca23cca0862f674758c9a3933e685c27d5),platform=Windows NT 6.1.7601 SP1 x86_64)
+
+id: ctl00_SiteContentPlaceHolder_FormView1_tbxUS_POC_ORGANIZATION
+value : HILTON LOS ANGELES SAN GABRIEL
+
+
+
+2019-03-01 12:34:04	catching classes that do not inherit from BaseException is not allowed
+id: ctl00_SiteContentPlaceHolder_FormView1_rblRemovalHearing_1
+value : None
+
+
+
+2019-03-01 12:34:10	catching classes that do not inherit from BaseException is not allowed
+id: ctl00_SiteContentPlaceHolder_FormView1_rblAttWoReimb_1
+value : None
+
+
+
+2019-03-01 13:37:12	catching classes that do not inherit from BaseException is not allowed
+id: ctl00_SiteContentPlaceHolder_ApplicationRecovery1_txbSurname
+value : ZHAO
+
+
+
+2019-03-01 13:44:20	Message: timeout
+  (Session info: chrome=71.0.3578.98)
+  (Driver info: chromedriver=2.42.591088 (7b2b2dca23cca0862f674758c9a3933e685c27d5),platform=Windows NT 6.1.7601 SP1 x86_64)
+
+idName: ctl00_SiteContentPlaceHolder_ucLocation_ddlLocation
+value : BEJ
+
+
+
+2019-03-01 13:45:01	catching classes that do not inherit from BaseException is not allowed
+id: ctl00_SiteContentPlaceHolder_ucLocation_ddlLocation
+value : None
+
+
+
+2019-03-01 13:45:01	catching classes that do not inherit from BaseException is not allowed
+id: ctl00_SiteContentPlaceHolder_ucLocation_ddlLocation
+value : None
+
+
+idName: ctl00_SiteContentPlaceHolder_ucLocation_ddlLocation
+value : BEJ
+
+
+
+2019-03-01 13:49:52	catching classes that do not inherit from BaseException is not allowed
+id: ctl00_SiteContentPlaceHolder_FormView1_tbxARRIVAL_US_DTEYear
+value : 2019
+
+
+
+2019-03-01 13:53:13	Message: 
+
+id: ctl00_SiteContentPlaceHolder_ApplicationRecovery1_txbSurname
+value : ZHAO
+
+
+
+2019-03-01 14:01:11	catching classes that do not inherit from BaseException is not allowed
+id: ctl00_SiteContentPlaceHolder_ApplicationRecovery1_txbSurname
+value : ZHAO
+
+
+
+2019-03-01 14:04:12	catching classes that do not inherit from BaseException is not allowed
+id: ctl00_SiteContentPlaceHolder_FormView1_rblRemovalHearing_1
+value : None
+
+
+
+2019-03-01 14:04:23	catching classes that do not inherit from BaseException is not allowed
+id: ctl00_SiteContentPlaceHolder_FormView1_rblAttWoReimb_1
+value : None
+
+
+
+2019-03-01 14:06:46	catching classes that do not inherit from BaseException is not allowed
+id: ctl00_SiteContentPlaceHolder_FormView1_rblArrested_1
+value : None
+
+
+
+2019-03-01 14:06:51	catching classes that do not inherit from BaseException is not allowed
+id: ctl00_SiteContentPlaceHolder_UpdateButton3
+value : None
+
+
+
+2019-03-01 14:09:45	catching classes that do not inherit from BaseException is not allowed
+id: ctl00_SiteContentPlaceHolder_ApplicationRecovery1_txbSurname
+value : ZHAO
+
+
+
+2019-03-01 14:13:20	catching classes that do not inherit from BaseException is not allowed
+id: ctl00_SiteContentPlaceHolder_ucLocation_IdentifyCaptcha1_txtCodeTextBox
+value : ev6h
+
+
+
+2019-03-01 14:13:28	catching classes that do not inherit from BaseException is not allowed
+id: ctl00_SiteContentPlaceHolder_ApplicationRecovery1_txbSurname
+value : ZHAO
+
+
+
+2019-03-01 19:45:51	catching classes that do not inherit from BaseException is not allowed
+id: ctl00_SiteContentPlaceHolder_ucLocation_ddlLocation
+value : None
+
+
+
+2019-03-01 19:45:51	catching classes that do not inherit from BaseException is not allowed
+id: ctl00_SiteContentPlaceHolder_ucLocation_ddlLocation
+value : None
+
+
+idName: ctl00_SiteContentPlaceHolder_ucLocation_ddlLocation
+value : BEJ
+
+
+
+2019-03-01 19:48:19	catching classes that do not inherit from BaseException is not allowed
+id: ctl00_SiteContentPlaceHolder_FormView1_tbxAPP_TelecodeSURNAME
+value : 6392
+
+
+
+2019-03-01 20:00:31	catching classes that do not inherit from BaseException is not allowed
+id: ctl00_SiteContentPlaceHolder_FormView1_dtlPrevEduc_ctl00_tbxSchoolName
+value : TSINGHUA UNIVERSITY
+
+
+
+2019-03-01 20:03:04	catching classes that do not inherit from BaseException is not allowed
+id: ctl00_SiteContentPlaceHolder_ApplicationRecovery1_txbSurname
+value : None
+
+
+
+2019-03-01 20:03:10	catching classes that do not inherit from BaseException is not allowed
+id: ctl00_SiteContentPlaceHolder_ApplicationRecovery1_txbSurname
+value : None
+
+
+
+2019-03-01 20:04:31	catching classes that do not inherit from BaseException is not allowed
+id: ctl00_SiteContentPlaceHolder_FormView1_dtlPrevEduc_ctl00_tbxSchoolName
+value : TSINGHUA UNIVERSITY
+
+
+
+2019-03-01 20:06:25	catching classes that do not inherit from BaseException is not allowed
+id: ctl00_SiteContentPlaceHolder_FormView1_dtlPrevEduc_ctl00_tbxSchoolName
+value : TSINGHUA UNIVERSITY
+
+
+
+2019-03-01 20:08:33	catching classes that do not inherit from BaseException is not allowed
+id: ctl00_SiteContentPlaceHolder_ApplicationRecovery1_pnlSubmittedApp
+value : None
+
+
+
+2019-03-01 20:09:53	catching classes that do not inherit from BaseException is not allowed
+id: ctl00_SiteContentPlaceHolder_FormView1_rblRemovalHearing_1
+value : None
+
+
+
+2019-03-01 20:10:11	catching classes that do not inherit from BaseException is not allowed
+id: ctl00_SiteContentPlaceHolder_FormView1_rblAttWoReimb_1
+value : None
+
+
+
+2019-03-01 20:13:15	catching classes that do not inherit from BaseException is not allowed
+id: ctl00_SiteContentPlaceHolder_ApplicationRecovery1_txbSurname
+value : None
+
+
+
+2019-03-01 20:13:20	catching classes that do not inherit from BaseException is not allowed
+id: ctl00_SiteContentPlaceHolder_ApplicationRecovery1_txbSurname
+value : None
+
+
+
+2019-03-01 20:18:16	catching classes that do not inherit from BaseException is not allowed
+id: ctl00_SiteContentPlaceHolder_ucLocation_ddlLocation
+value : None
+
+
+
+2019-03-01 20:18:16	catching classes that do not inherit from BaseException is not allowed
+id: ctl00_SiteContentPlaceHolder_ucLocation_ddlLocation
+value : None
+
+
+idName: ctl00_SiteContentPlaceHolder_ucLocation_ddlLocation
+value : BEJ
+
+
+
+2019-03-01 20:21:25	catching classes that do not inherit from BaseException is not allowed
+id: ctl00_SiteContentPlaceHolder_FormView1_rblGroupTravel_1
+value : None
+
+
+
+2019-03-01 20:24:28	catching classes that do not inherit from BaseException is not allowed
+id: ctl00_SiteContentPlaceHolder_FormView1_tbxUS_POC_ADDR_LN1
+value : 225 West Valley Boulevard 
+
+
+
+2019-03-01 20:26:27	catching classes that do not inherit from BaseException is not allowed
+id: ctl00_SiteContentPlaceHolder_ApplicationRecovery1_txbSurname
+value : None
+
+
+
+2019-03-01 20:26:33	catching classes that do not inherit from BaseException is not allowed
+id: ctl00_SiteContentPlaceHolder_ApplicationRecovery1_txbSurname
+value : None
+
+
+
+2019-03-01 20:27:14	catching classes that do not inherit from BaseException is not allowed
+id: ctl00_SiteContentPlaceHolder_FormView1_tbxUS_POC_ADDR_LN1
+value : 225 West Valley Boulevard 
+
+
+
+2019-03-01 20:30:30	catching classes that do not inherit from BaseException is not allowed
+id: ctl00_SiteContentPlaceHolder_ucLocation_ddlLocation
+value : None
+
+
+
+2019-03-01 20:30:30	catching classes that do not inherit from BaseException is not allowed
+id: ctl00_SiteContentPlaceHolder_ucLocation_ddlLocation
+value : None
+
+
+idName: ctl00_SiteContentPlaceHolder_ucLocation_ddlLocation
+value : BEJ
+
+
+
+2019-03-01 20:31:47	Message: 
+
+id: ctl00_SiteContentPlaceHolder_ucLocation_ddlLocation
+value : None
+
+
+
+2019-03-01 20:31:47	Message: 
+
+id: ctl00_SiteContentPlaceHolder_ucLocation_ddlLocation
+value : None
+
+
+idName: ctl00_SiteContentPlaceHolder_ucLocation_ddlLocation
+value : BEJ
+
+
+
+2019-03-01 20:34:21	catching classes that do not inherit from BaseException is not allowed
+id: ctl00_SiteContentPlaceHolder_ApplicationRecovery1_txbSurname
+value : None
+
+
+
+2019-03-01 20:35:04	catching classes that do not inherit from BaseException is not allowed
+id: ctl00_SiteContentPlaceHolder_FormView1_tbxUS_POC_ADDR_LN1
+value : 225 West Valley Boulevard 
+
+
+
+2019-03-01 20:36:41	catching classes that do not inherit from BaseException is not allowed
+id: ctl00_SiteContentPlaceHolder_ApplicationRecovery1_txbSurname
+value : None
+
+
+
+2019-03-01 20:36:47	catching classes that do not inherit from BaseException is not allowed
+id: ctl00_SiteContentPlaceHolder_ApplicationRecovery1_txbSurname
+value : None
+
+
+
+2019-03-01 20:36:52	catching classes that do not inherit from BaseException is not allowed
+id: ctl00_SiteContentPlaceHolder_ApplicationRecovery1_txbSurname
+value : None
+
+
+
+2019-03-01 20:37:33	catching classes that do not inherit from BaseException is not allowed
+id: ctl00_SiteContentPlaceHolder_FormView1_tbxUS_POC_ADDR_LN1
+value : 225 West Valley Boulevard 
+
+
+
+2019-03-01 20:40:24	catching classes that do not inherit from BaseException is not allowed
+id: ctl00_SiteContentPlaceHolder_ApplicationRecovery1_txbSurname
+value : None
+
+
+
+2019-03-01 20:40:42	catching classes that do not inherit from BaseException is not allowed
+id: ctl00_SiteContentPlaceHolder_ApplicationRecovery1_pnlSubmittedApp
+value : None
+
+
+
+2019-03-01 20:40:58	catching classes that do not inherit from BaseException is not allowed
+id: ctl00_SiteContentPlaceHolder_FormView1_rblUS_OTHER_RELATIVE_IND_1
+value : None
+
+
+
+2019-03-01 20:42:37	catching classes that do not inherit from BaseException is not allowed
+id: ctl00_SiteContentPlaceHolder_ApplicationRecovery1_txbSurname
+value : None
+
+
+
+2019-03-01 20:42:42	catching classes that do not inherit from BaseException is not allowed
+id: ctl00_SiteContentPlaceHolder_ApplicationRecovery1_txbSurname
+value : None
+
+
+
+2019-03-01 20:43:38	catching classes that do not inherit from BaseException is not allowed
+id: ctl00_SiteContentPlaceHolder_FormView1_rblUS_OTHER_RELATIVE_IND_1
+value : None
+
+
+
+2019-03-01 20:59:27	catching classes that do not inherit from BaseException is not allowed
+id: ctl00_SiteContentPlaceHolder_ucLocation_ddlLocation
+value : None
+
+
+
+2019-03-01 20:59:27	catching classes that do not inherit from BaseException is not allowed
+id: ctl00_SiteContentPlaceHolder_ucLocation_ddlLocation
+value : None
+
+
+idName: ctl00_SiteContentPlaceHolder_ucLocation_ddlLocation
+value : BEJ
+
+
+
+2019-03-01 21:03:09	catching classes that do not inherit from BaseException is not allowed
+id: ctl00_SiteContentPlaceHolder_FormView1_dtlPrevEmpl_ctl00_tbEmployerName
+value : A
+
+
+
+2019-03-01 21:18:57	catching classes that do not inherit from BaseException is not allowed
+id: ctl00_SiteContentPlaceHolder_ucLocation_ddlLocation
+value : None
+
+
+
+2019-03-01 21:18:57	catching classes that do not inherit from BaseException is not allowed
+id: ctl00_SiteContentPlaceHolder_ucLocation_ddlLocation
+value : None
+
+
+idName: ctl00_SiteContentPlaceHolder_ucLocation_ddlLocation
+value : BEJ
+
+
+
+2019-03-01 21:22:42	catching classes that do not inherit from BaseException is not allowed
+id: ctl00_SiteContentPlaceHolder_ApplicationRecovery1_txbSurname
+value : None
+
+
+
+2019-03-01 21:22:47	catching classes that do not inherit from BaseException is not allowed
+id: ctl00_SiteContentPlaceHolder_ApplicationRecovery1_txbSurname
+value : None
+
+
+
+2019-03-01 21:23:27	catching classes that do not inherit from BaseException is not allowed
+id: ctl00_SiteContentPlaceHolder_FormView1_dtlPrevEmpl_ctl00_tbEmployerName
+value : A
+
+
+
+2019-03-01 21:25:08	catching classes that do not inherit from BaseException is not allowed
+id: ctl00_SiteContentPlaceHolder_ApplicationRecovery1_txbSurname
+value : None
+
+
+
+2019-03-01 21:25:14	catching classes that do not inherit from BaseException is not allowed
+id: ctl00_SiteContentPlaceHolder_ApplicationRecovery1_txbSurname
+value : None
+
+
+
+2019-03-01 21:25:48	catching classes that do not inherit from BaseException is not allowed
+id: ctl00_SiteContentPlaceHolder_FormView1_dtlPrevEmpl_ctl00_tbEmployerName
+value : A
+
+
+
+2019-03-01 21:28:10	catching classes that do not inherit from BaseException is not allowed
+id: ctl00_SiteContentPlaceHolder_ApplicationRecovery1_txbSurname
+value : None
+
+
+
+2019-03-01 21:28:15	catching classes that do not inherit from BaseException is not allowed
+id: ctl00_SiteContentPlaceHolder_ApplicationRecovery1_txbSurname
+value : None
+
+
+
+2019-03-01 21:29:01	catching classes that do not inherit from BaseException is not allowed
+id: ctl00_SiteContentPlaceHolder_FormView1_dtlPrevEmpl_ctl00_tbEmployerName
+value : A
+
+
+
+2019-03-01 21:34:59	Message: timeout
+  (Session info: chrome=71.0.3578.98)
+  (Driver info: chromedriver=2.42.591088 (7b2b2dca23cca0862f674758c9a3933e685c27d5),platform=Windows NT 6.1.7601 SP1 x86_64)
+
+idName: ctl00_SiteContentPlaceHolder_ucLocation_ddlLocation
+value : BEJ
+
+
+
+2019-03-01 21:41:21	Message: timeout
+  (Session info: chrome=71.0.3578.98)
+  (Driver info: chromedriver=2.42.591088 (7b2b2dca23cca0862f674758c9a3933e685c27d5),platform=Windows NT 6.1.7601 SP1 x86_64)
+
+idName: ctl00_SiteContentPlaceHolder_ucLocation_ddlLocation
+value : BEJ
+
+
+
+2019-03-01 21:42:16	catching classes that do not inherit from BaseException is not allowed
+id: ctl00_SiteContentPlaceHolder_ucLocation_ddlLocation
+value : None
+
+
+
+2019-03-01 21:42:16	catching classes that do not inherit from BaseException is not allowed
+id: ctl00_SiteContentPlaceHolder_ucLocation_ddlLocation
+value : None
+
+
+idName: ctl00_SiteContentPlaceHolder_ucLocation_ddlLocation
+value : BEJ
+
+
+
+2019-03-01 21:46:00	catching classes that do not inherit from BaseException is not allowed
+id: ctl00_SiteContentPlaceHolder_ApplicationRecovery1_txbSurname
+value : None
+
+
+
+2019-03-01 21:46:05	catching classes that do not inherit from BaseException is not allowed
+id: ctl00_SiteContentPlaceHolder_ApplicationRecovery1_txbSurname
+value : None
+
+
+
+2019-03-01 21:46:11	catching classes that do not inherit from BaseException is not allowed
+id: ctl00_SiteContentPlaceHolder_ApplicationRecovery1_txbSurname
+value : None
+
+
+
+2019-03-01 21:46:16	catching classes that do not inherit from BaseException is not allowed
+id: ctl00_SiteContentPlaceHolder_ApplicationRecovery1_txbSurname
+value : None
+
+
+

@@ -1,0 +1,274 @@
+2018-10-23 13:12:48	catching classes that do not inherit from BaseException is not allowed
+id: loginPage:SiteTemplate:siteLogin:loginComponent:loginForm:username
+value : janice.fu@lettours.com
+
+
+
+2018-10-23 14:10:06	Message: unknown error: session deleted because of page crash
+from tab crashed
+  (Session info: chrome=69.0.3497.100)
+  (Driver info: chromedriver=2.42.591088 (7b2b2dca23cca0862f674758c9a3933e685c27d5),platform=Windows NT 6.1.7601 SP1 x86_64)
+
+css selector: input.continue
+value : None
+
+
+
+2018-10-23 22:15:30	catching classes that do not inherit from BaseException is not allowed
+xpath: //select
+value : None
+
+
+
+2018-10-23 22:16:45	catching classes that do not inherit from BaseException is not allowed
+css selector: table > tbody > tr > td:nth-child(2) > span > a
+value : None
+
+
+
+2018-10-23 22:19:32	catching classes that do not inherit from BaseException is not allowed
+xpath: //select
+value : None
+
+
+
+2018-10-23 22:22:08	catching classes that do not inherit from BaseException is not allowed
+css selector: table > tbody > tr > td:nth-child(2) > span > a
+value : None
+
+
+
+2018-10-23 22:24:17	catching classes that do not inherit from BaseException is not allowed
+css selector: table > tbody > tr > td:nth-child(2) > span > a
+value : None
+
+
+
+2018-10-23 22:27:19	catching classes that do not inherit from BaseException is not allowed
+xpath: //select
+value : None
+
+
+
+2018-10-23 22:30:11	catching classes that do not inherit from BaseException is not allowed
+xpath: //select
+value : None
+
+
+
+2018-10-23 22:31:23	catching classes that do not inherit from BaseException is not allowed
+css selector: table > tbody > tr > td:nth-child(2) > span > a
+value : None
+
+
+
+2018-10-23 22:34:14	catching classes that do not inherit from BaseException is not allowed
+xpath: //select
+value : None
+
+
+
+2018-10-23 22:37:02	catching classes that do not inherit from BaseException is not allowed
+xpath: //select
+value : None
+
+
+
+2018-10-23 22:40:21	catching classes that do not inherit from BaseException is not allowed
+xpath: //select
+value : None
+
+
+
+2018-10-23 22:41:53	catching classes that do not inherit from BaseException is not allowed
+css selector: table > tbody > tr > td:nth-child(2) > span > a
+value : None
+
+
+
+2018-10-23 22:44:25	catching classes that do not inherit from BaseException is not allowed
+xpath: //select
+value : None
+
+
+
+2018-10-23 22:46:02	catching classes that do not inherit from BaseException is not allowed
+css selector: table > tbody > tr > td:nth-child(2) > span > a
+value : None
+
+
+
+2018-10-23 22:47:40	catching classes that do not inherit from BaseException is not allowed
+css selector: table > tbody > tr > td:nth-child(2) > span > a
+value : None
+
+
+
+2018-10-23 22:50:39	catching classes that do not inherit from BaseException is not allowed
+xpath: //select
+value : None
+
+
+
+2018-10-23 22:53:22	catching classes that do not inherit from BaseException is not allowed
+css selector: table > tbody > tr > td:nth-child(2) > span > a
+value : None
+
+
+
+2018-10-23 22:55:29	catching classes that do not inherit from BaseException is not allowed
+css selector: table > tbody > tr > td:nth-child(2) > span > a
+value : None
+
+
+
+2018-10-23 22:57:03	catching classes that do not inherit from BaseException is not allowed
+css selector: table > tbody > tr > td:nth-child(2) > span > a
+value : None
+
+
+
+2018-10-23 23:00:10	catching classes that do not inherit from BaseException is not allowed
+xpath: //select
+value : None
+
+
+
+2018-10-23 23:02:49	catching classes that do not inherit from BaseException is not allowed
+xpath: //select
+value : None
+
+
+
+2018-10-23 23:05:21	catching classes that do not inherit from BaseException is not allowed
+xpath: //select
+value : None
+
+
+
+2018-10-23 23:06:43	catching classes that do not inherit from BaseException is not allowed
+css selector: table > tbody > tr > td:nth-child(2) > span > a
+value : None
+
+
+
+2018-10-23 23:09:29	catching classes that do not inherit from BaseException is not allowed
+xpath: //select
+value : None
+
+
+
+2018-10-23 23:10:52	catching classes that do not inherit from BaseException is not allowed
+css selector: table > tbody > tr > td:nth-child(2) > span > a
+value : None
+
+
+
+2018-10-23 23:13:40	catching classes that do not inherit from BaseException is not allowed
+xpath: //select
+value : None
+
+
+
+2018-10-23 23:16:15	catching classes that do not inherit from BaseException is not allowed
+xpath: //select
+value : None
+
+
+
+2018-10-23 23:17:55	catching classes that do not inherit from BaseException is not allowed
+css selector: table > tbody > tr > td:nth-child(2) > span > a
+value : None
+
+
+
+2018-10-23 23:20:30	catching classes that do not inherit from BaseException is not allowed
+xpath: //select
+value : None
+
+
+
+2018-10-23 23:21:51	catching classes that do not inherit from BaseException is not allowed
+css selector: table > tbody > tr > td:nth-child(2) > span > a
+value : None
+
+
+
+2018-10-23 23:24:38	catching classes that do not inherit from BaseException is not allowed
+xpath: //select
+value : None
+
+
+
+2018-10-23 23:26:31	catching classes that do not inherit from BaseException is not allowed
+css selector: table > tbody > tr > td:nth-child(2) > span > a
+value : None
+
+
+
+2018-10-23 23:29:39	catching classes that do not inherit from BaseException is not allowed
+xpath: //select
+value : None
+
+
+
+2018-10-23 23:33:22	catching classes that do not inherit from BaseException is not allowed
+xpath: //select
+value : None
+
+
+
+2018-10-23 23:38:58	catching classes that do not inherit from BaseException is not allowed
+xpath: //select
+value : None
+
+
+
+2018-10-23 23:41:29	catching classes that do not inherit from BaseException is not allowed
+xpath: //select
+value : None
+
+
+
+2018-10-23 23:42:37	catching classes that do not inherit from BaseException is not allowed
+css selector: table > tbody > tr > td:nth-child(2) > span > a
+value : None
+
+
+
+2018-10-23 23:44:38	catching classes that do not inherit from BaseException is not allowed
+css selector: table > tbody > tr > td:nth-child(2) > span > a
+value : None
+
+
+
+2018-10-23 23:48:15	catching classes that do not inherit from BaseException is not allowed
+xpath: //select
+value : None
+
+
+
+2018-10-23 23:50:49	catching classes that do not inherit from BaseException is not allowed
+xpath: //select
+value : None
+
+
+
+2018-10-23 23:52:13	catching classes that do not inherit from BaseException is not allowed
+css selector: table > tbody > tr > td:nth-child(2) > span > a
+value : None
+
+
+
+2018-10-23 23:55:03	catching classes that do not inherit from BaseException is not allowed
+xpath: //select
+value : None
+
+
+
+2018-10-23 23:56:32	catching classes that do not inherit from BaseException is not allowed
+css selector: table > tbody > tr > td:nth-child(2) > span > a
+value : None
+
+
+

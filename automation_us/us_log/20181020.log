@@ -1,0 +1,85 @@
+2018-10-20 15:20:19	Message: stale element reference: element is not attached to the page document
+  (Session info: chrome=69.0.3497.100)
+  (Driver info: chromedriver=2.42.591088 (7b2b2dca23cca0862f674758c9a3933e685c27d5),platform=Windows NT 6.1.7601 SP1 x86_64)
+
+id: ctl00_SiteContentPlaceHolder_FormView1_ddlPPT_EXPIRE_DTEMonth
+value : JUN
+
+
+
+2018-10-20 15:25:28	catching classes that do not inherit from BaseException is not allowed
+id: ctl00_SiteContentPlaceHolder_FormView1_dtlPrevEmpl_ctl00_tbEmployerName
+value : Beijing Fenghuang Tian Bo network technology Co Ltd
+
+
+
+2018-10-20 15:29:39	Message: unknown error: Element <span class="ui-button-text">...</span> is not clickable at point (354, 449). Other element would receive the click: <label>...</label>
+  (Session info: chrome=69.0.3497.100)
+  (Driver info: chromedriver=2.42.591088 (7b2b2dca23cca0862f674758c9a3933e685c27d5),platform=Windows NT 6.1.7601 SP1 x86_64)
+
+css selector: #create-addApplicants > span
+value : None
+
+
+
+2018-10-20 15:30:45	Message: unknown error: Element <span class="ui-button-text">...</span> is not clickable at point (354, 449). Other element would receive the click: <label>...</label>
+  (Session info: chrome=69.0.3497.100)
+  (Driver info: chromedriver=2.42.591088 (7b2b2dca23cca0862f674758c9a3933e685c27d5),platform=Windows NT 6.1.7601 SP1 x86_64)
+
+css selector: #create-addApplicants > span
+value : None
+
+
+
+2018-10-20 15:31:28	Message: unknown error: session deleted because of page crash
+from tab crashed
+  (Session info: chrome=69.0.3497.100)
+  (Driver info: chromedriver=2.42.591088 (7b2b2dca23cca0862f674758c9a3933e685c27d5),platform=Windows NT 6.1.7601 SP1 x86_64)
+
+css selector: input.continue
+value : None
+
+
+
+2018-10-20 15:43:30	Message: unknown error: Element <span class="ui-button-text">...</span> is not clickable at point (354, 449). Other element would receive the click: <label>...</label>
+  (Session info: chrome=69.0.3497.100)
+  (Driver info: chromedriver=2.42.591088 (7b2b2dca23cca0862f674758c9a3933e685c27d5),platform=Windows NT 6.1.7601 SP1 x86_64)
+
+css selector: #create-addApplicants > span
+value : None
+
+
+
+2018-10-20 18:16:27	Message: stale element reference: element is not attached to the page document
+  (Session info: chrome=69.0.3497.100)
+  (Driver info: chromedriver=2.42.591088 (7b2b2dca23cca0862f674758c9a3933e685c27d5),platform=Windows NT 6.1.7601 SP1 x86_64)
+
+id: ctl00_SiteContentPlaceHolder_FormView1_ddlPPT_EXPIRE_DTEMonth
+value : JUN
+
+
+
+2018-10-20 18:25:22	catching classes that do not inherit from BaseException is not allowed
+id: ctl00_SiteContentPlaceHolder_ucLocation_IdentifyCaptcha1_txtCodeTextBox
+value : hsnbmc
+
+
+
+2018-10-20 18:29:51	catching classes that do not inherit from BaseException is not allowed
+id: ctl00_SiteContentPlaceHolder_ApplicationRecovery1_txbSurname
+value : YAO
+
+
+
+2018-10-20 18:45:53	catching classes that do not inherit from BaseException is not allowed
+id: ctl00_SiteContentPlaceHolder_ucLocation_ddlLocation
+value : None
+
+
+
+2018-10-20 21:50:43	catching classes that do not inherit from BaseException is not allowed
+id: ctl00_SiteContentPlaceHolder_ucLocation_ddlLocation
+value : None
+
+
+

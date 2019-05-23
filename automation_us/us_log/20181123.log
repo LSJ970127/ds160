@@ -1,0 +1,69 @@
+2018-11-23 11:39:19	Message: element not interactable
+  (Session info: chrome=69.0.3497.100)
+  (Driver info: chromedriver=2.42.591088 (7b2b2dca23cca0862f674758c9a3933e685c27d5),platform=Windows NT 6.1.7601 SP1 x86_64)
+
+xpath: //*[@id="mainContent"]/div/form/div/input[2]
+value : None
+
+
+
+2018-11-23 11:40:57	Message: element not interactable
+  (Session info: chrome=69.0.3497.100)
+  (Driver info: chromedriver=2.42.591088 (7b2b2dca23cca0862f674758c9a3933e685c27d5),platform=Windows NT 6.1.7601 SP1 x86_64)
+
+xpath: //*[@id="mainContent"]/div/form/div/input[2]
+value : None
+
+
+
+2018-11-23 11:42:51	Message: element not interactable
+  (Session info: chrome=69.0.3497.100)
+  (Driver info: chromedriver=2.42.591088 (7b2b2dca23cca0862f674758c9a3933e685c27d5),platform=Windows NT 6.1.7601 SP1 x86_64)
+
+xpath: //*[@id="mainContent"]/div/form/div/input[2]
+value : None
+
+
+
+2018-11-23 11:59:27	Message: element not interactable
+  (Session info: chrome=69.0.3497.100)
+  (Driver info: chromedriver=2.42.591088 (7b2b2dca23cca0862f674758c9a3933e685c27d5),platform=Windows NT 6.1.7601 SP1 x86_64)
+
+css selector: table > tbody > tr:nth-child(2) > td:first-child > a
+value : None
+
+
+
+2018-11-23 12:00:48	catching classes that do not inherit from BaseException is not allowed
+xpath: //select
+value : None
+
+
+
+2018-11-23 12:02:33	Message: element not interactable
+  (Session info: chrome=69.0.3497.100)
+  (Driver info: chromedriver=2.42.591088 (7b2b2dca23cca0862f674758c9a3933e685c27d5),platform=Windows NT 6.1.7601 SP1 x86_64)
+
+css selector: table > tbody > tr:nth-child(2) > td:first-child > a
+value : None
+
+
+
+2018-11-23 12:04:02	Message: element not interactable
+  (Session info: chrome=69.0.3497.100)
+  (Driver info: chromedriver=2.42.591088 (7b2b2dca23cca0862f674758c9a3933e685c27d5),platform=Windows NT 6.1.7601 SP1 x86_64)
+
+css selector: table > tbody > tr:nth-child(2) > td:first-child > a
+value : None
+
+
+
+2018-11-23 12:05:35	Message: element not interactable
+  (Session info: chrome=69.0.3497.100)
+  (Driver info: chromedriver=2.42.591088 (7b2b2dca23cca0862f674758c9a3933e685c27d5),platform=Windows NT 6.1.7601 SP1 x86_64)
+
+css selector: table > tbody > tr:nth-child(2) > td:first-child > a
+value : None
+
+
+

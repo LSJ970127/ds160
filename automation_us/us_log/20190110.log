@@ -1,0 +1,79 @@
+2019-01-10 15:23:58	catching classes that do not inherit from BaseException is not allowed
+id: loginPage:SiteTemplate:siteLogin:loginComponent:loginForm:password
+value : limiao0447
+
+
+
+2019-01-10 15:24:00	catching classes that do not inherit from BaseException is not allowed
+xpath: //select
+value : None
+
+
+
+2019-01-10 15:31:00	catching classes that do not inherit from BaseException is not allowed
+css selector: #create-addApplicants > span
+value : None
+
+
+
+2019-01-10 15:31:16	catching classes that do not inherit from BaseException is not allowed
+css selector: #create-addApplicants > span
+value : None
+
+
+
+2019-01-10 15:31:53	Message: unknown error: Element <a id="paymentOptionsLink" style="cursor: pointer;">...</a> is not clickable at point (380, 473). Other element would receive the click: <div id="paymentOptions" class="ui-dialog-content ui-widget-content" style="width: auto; min-height: 0px; height: 291.281px;">...</div>
+  (Session info: chrome=71.0.3578.98)
+  (Driver info: chromedriver=2.42.591088 (7b2b2dca23cca0862f674758c9a3933e685c27d5),platform=Windows NT 6.1.7601 SP1 x86_64)
+
+id: paymentOptionsLink
+value : None
+
+
+
+2019-01-10 15:35:49	catching classes that do not inherit from BaseException is not allowed
+css selector: #summary
+value : None
+
+
+
+2019-01-10 15:35:53	catching classes that do not inherit from BaseException is not allowed
+id: ctl00_SiteContentPlaceHolder_ucLocation_ddlLocation
+value : None
+
+
+
+2019-01-10 15:35:53	catching classes that do not inherit from BaseException is not allowed
+id: ctl00_SiteContentPlaceHolder_ucLocation_ddlLocation
+value : None
+
+
+idName: ctl00_SiteContentPlaceHolder_ucLocation_ddlLocation
+value : SHG
+
+
+
+2019-01-10 15:35:53	catching classes that do not inherit from BaseException is not allowed
+css selector: dd>span
+value : None
+
+
+
+2019-01-10 15:40:17	Message: unknown error: Element <a id="paymentOptionsLink" style="cursor: pointer;">...</a> is not clickable at point (380, 473). Other element would receive the click: <div id="paymentOptions" class="ui-dialog-content ui-widget-content" style="width: auto; min-height: 0px; height: 291.281px;">...</div>
+  (Session info: chrome=71.0.3578.98)
+  (Driver info: chromedriver=2.42.591088 (7b2b2dca23cca0862f674758c9a3933e685c27d5),platform=Windows NT 6.1.7601 SP1 x86_64)
+
+id: paymentOptionsLink
+value : None
+
+
+
+2019-01-10 15:42:22	Message: unknown error: Element <a id="paymentOptionsLink" style="cursor: pointer;">...</a> is not clickable at point (380, 473). Other element would receive the click: <div id="paymentOptions" class="ui-dialog-content ui-widget-content" style="width: auto; min-height: 0px; height: 291.281px;">...</div>
+  (Session info: chrome=71.0.3578.98)
+  (Driver info: chromedriver=2.42.591088 (7b2b2dca23cca0862f674758c9a3933e685c27d5),platform=Windows NT 6.1.7601 SP1 x86_64)
+
+id: paymentOptionsLink
+value : None
+
+
+

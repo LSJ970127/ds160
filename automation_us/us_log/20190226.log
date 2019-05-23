@@ -1,0 +1,12 @@
+2019-02-26 16:08:40	catching classes that do not inherit from BaseException is not allowed
+id: loginPage:SiteTemplate:siteLogin:loginComponent:loginForm:username
+value : 1065615197@QQ.COM
+
+
+
+2019-02-26 16:19:15	catching classes that do not inherit from BaseException is not allowed
+id: ctl00_SiteContentPlaceHolder_FormView1_dtlMILITARY_SERVICE_ctl00_tbxMILITARY_SVC_BRANCH
+value : air force
+
+
+

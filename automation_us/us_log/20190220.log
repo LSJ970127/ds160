@@ -1,0 +1,391 @@
+2019-02-20 08:56:39	catching classes that do not inherit from BaseException is not allowed
+id: ctl00_SiteContentPlaceHolder_ucLocation_ddlLocation
+value : None
+
+
+
+2019-02-20 08:56:39	catching classes that do not inherit from BaseException is not allowed
+id: ctl00_SiteContentPlaceHolder_ucLocation_ddlLocation
+value : None
+
+
+idName: ctl00_SiteContentPlaceHolder_ucLocation_ddlLocation
+value : GUZ
+
+
+
+2019-02-20 08:57:45	(1064, 'You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near \'Other Permanent Resident Country/Region " has not been answered.", ap.`status`="\' at line 1')
+个人信息二:|The Other Country/Region of Origin (Nationality) listed has already been (entered or selected).|The question "Other Permanent Resident Country/Region " has not been answered.
+
+2019-02-20 08:57:47	(1064, 'You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near \'Other Permanent Resident Country/Region " has not been answered.|The question "O\' at line 1')
+个人信息二:|The Other Permanent/Resident Country/Region listed has already been (entered or selected).|The question "Other Permanent Resident Country/Region " has not been answered.|The question "Other Permanent Resident Country/Region " has not been answered.
+
+2019-02-20 08:57:56	(1064, 'You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near \'Other Permanent Resident Country/Region " has not been answered.", ap.`status`="\' at line 1')
+个人信息二:|The Other Country/Region of Origin (Nationality) listed has already been (entered or selected).|The question "Other Permanent Resident Country/Region " has not been answered.
+
+2019-02-20 08:57:59	(1064, 'You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near \'Other Permanent Resident Country/Region " has not been answered.", ap.`status`="\' at line 1')
+个人信息二:|The Other Country/Region of Origin (Nationality) listed has already been (entered or selected).|The question "Other Permanent Resident Country/Region " has not been answered.
+
+2019-02-20 08:58:01	(1064, 'You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near \'Other Permanent Resident Country/Region " has not been answered.|The question "O\' at line 1')
+个人信息二:|The Other Permanent/Resident Country/Region listed has already been (entered or selected).|The question "Other Permanent Resident Country/Region " has not been answered.|The question "Other Permanent Resident Country/Region " has not been answered.
+
+2019-02-20 08:58:04	(1064, 'You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near \'Other Permanent Resident Country/Region " has not been answered.|The question "O\' at line 1')
+个人信息二:|The Other Permanent/Resident Country/Region listed has already been (entered or selected).|The question "Other Permanent Resident Country/Region " has not been answered.|The question "Other Permanent Resident Country/Region " has not been answered.|The question "Other Permanent Resident Country/Region " has not been answered.
+
+2019-02-20 08:58:06	(1064, 'You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near \'Other Permanent Resident Country/Region " has not been answered.|The question "O\' at line 1')
+个人信息二:|The Other Permanent/Resident Country/Region listed has already been (entered or selected).|The question "Other Permanent Resident Country/Region " has not been answered.|The question "Other Permanent Resident Country/Region " has not been answered.|The question "Other Permanent Resident Country/Region " has not been answered.|The question "Other Permanent Resident Country/Region " has not been answered.
+
+2019-02-20 08:58:09	(1064, 'You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near \'Other Permanent Resident Country/Region " has not been answered.|The question "O\' at line 1')
+个人信息二:|The Other Permanent/Resident Country/Region listed has already been (entered or selected).|The question "Other Permanent Resident Country/Region " has not been answered.|The question "Other Permanent Resident Country/Region " has not been answered.|The question "Other Permanent Resident Country/Region " has not been answered.|The question "Other Permanent Resident Country/Region " has not been answered.|The question "Other Permanent Resident Country/Region " has not been answered.
+
+2019-02-20 08:58:12	(1064, 'You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near \'Other Permanent Resident Country/Region " has not been answered.|The question "O\' at line 1')
+个人信息二:|The Other Permanent/Resident Country/Region listed has already been (entered or selected).|The question "Other Permanent Resident Country/Region " has not been answered.|The question "Other Permanent Resident Country/Region " has not been answered.|The question "Other Permanent Resident Country/Region " has not been answered.|The question "Other Permanent Resident Country/Region " has not been answered.|The question "Other Permanent Resident Country/Region " has not been answered.|The question "Other Permanent Resident Country/Region " has not been answered.
+
+2019-02-20 08:58:13	Message: stale element reference: element is not attached to the page document
+  (Session info: chrome=71.0.3578.98)
+  (Driver info: chromedriver=2.42.591088 (7b2b2dca23cca0862f674758c9a3933e685c27d5),platform=Windows NT 6.1.7601 SP1 x86_64)
+
+idName: ctl00_SiteContentPlaceHolder_FormView1_dtlOthPermResCntry_ctl01_ddlOthPermResCntry
+value : CHIN
+
+
+
+2019-02-20 09:08:49	catching classes that do not inherit from BaseException is not allowed
+id: ctl00_SiteContentPlaceHolder_ucLocation_ddlLocation
+value : None
+
+
+
+2019-02-20 09:08:49	catching classes that do not inherit from BaseException is not allowed
+id: ctl00_SiteContentPlaceHolder_ucLocation_ddlLocation
+value : None
+
+
+idName: ctl00_SiteContentPlaceHolder_ucLocation_ddlLocation
+value : GUZ
+
+
+
+2019-02-20 09:10:22	Message: stale element reference: element is not attached to the page document
+  (Session info: chrome=71.0.3578.98)
+  (Driver info: chromedriver=2.42.591088 (7b2b2dca23cca0862f674758c9a3933e685c27d5),platform=Windows NT 6.1.7601 SP1 x86_64)
+
+idName: ctl00_SiteContentPlaceHolder_FormView1_dtlOthPermResCntry_ctl00_ddlOthPermResCntry
+value : CAN
+
+
+
+2019-02-20 10:06:33	catching classes that do not inherit from BaseException is not allowed
+css selector: #ctl00_nav_side1 > ul > li:nth-child(3) > a
+value : None
+
+
+
+2019-02-20 10:07:13	catching classes that do not inherit from BaseException is not allowed
+css selector: #ctl00_nav_side1 > ul > li:nth-child(3) > a
+value : None
+
+
+
+2019-02-20 10:07:51	catching classes that do not inherit from BaseException is not allowed
+css selector: #ctl00_nav_side1 > ul > li:nth-child(3) > a
+value : None
+
+
+
+2019-02-20 10:08:37	catching classes that do not inherit from BaseException is not allowed
+css selector: #ctl00_nav_side1 > ul > li:nth-child(3) > a
+value : None
+
+
+
+2019-02-20 11:41:48	catching classes that do not inherit from BaseException is not allowed
+id: ctl00_SiteContentPlaceHolder_ucLocation_ddlLocation
+value : None
+
+
+
+2019-02-20 11:41:48	catching classes that do not inherit from BaseException is not allowed
+id: ctl00_SiteContentPlaceHolder_ucLocation_ddlLocation
+value : None
+
+
+idName: ctl00_SiteContentPlaceHolder_ucLocation_ddlLocation
+value : GUZ
+
+
+
+2019-02-20 11:43:04	catching classes that do not inherit from BaseException is not allowed
+id: ctl00_SiteContentPlaceHolder_ucLocation_ddlLocation
+value : None
+
+
+
+2019-02-20 11:43:04	catching classes that do not inherit from BaseException is not allowed
+id: ctl00_SiteContentPlaceHolder_ucLocation_ddlLocation
+value : None
+
+
+idName: ctl00_SiteContentPlaceHolder_ucLocation_ddlLocation
+value : GUZ
+
+
+
+2019-02-20 11:44:27	catching classes that do not inherit from BaseException is not allowed
+id: ctl00_SiteContentPlaceHolder_ApplicationRecovery1_txbSurname
+value : ZHOU
+
+
+
+2019-02-20 11:45:34	catching classes that do not inherit from BaseException is not allowed
+id: ctl00_SiteContentPlaceHolder_ApplicationRecovery1_txbSurname
+value : ZHOU
+
+
+
+2019-02-20 11:47:01	catching classes that do not inherit from BaseException is not allowed
+id: ctl00_SiteContentPlaceHolder_ApplicationRecovery1_pnlSubmittedApp
+value : None
+
+
+
+2019-02-20 11:47:27	catching classes that do not inherit from BaseException is not allowed
+id: ctl00_SiteContentPlaceHolder_FormView1_rblUS_OTHER_RELATIVE_IND_1
+value : None
+
+
+
+2019-02-20 11:49:33	catching classes that do not inherit from BaseException is not allowed
+id: ctl00_SiteContentPlaceHolder_FormView1_rblUS_OTHER_RELATIVE_IND_1
+value : None
+
+
+
+2019-02-20 11:53:15	catching classes that do not inherit from BaseException is not allowed
+id: ctl00_SiteContentPlaceHolder_ucLocation_ddlLocation
+value : None
+
+
+
+2019-02-20 11:53:15	catching classes that do not inherit from BaseException is not allowed
+id: ctl00_SiteContentPlaceHolder_ucLocation_ddlLocation
+value : None
+
+
+idName: ctl00_SiteContentPlaceHolder_ucLocation_ddlLocation
+value : GUZ
+
+
+
+2019-02-20 11:58:22	catching classes that do not inherit from BaseException is not allowed
+id: ctl00_SiteContentPlaceHolder_ucLocation_ddlLocation
+value : None
+
+
+
+2019-02-20 11:58:22	catching classes that do not inherit from BaseException is not allowed
+id: ctl00_SiteContentPlaceHolder_ucLocation_ddlLocation
+value : None
+
+
+idName: ctl00_SiteContentPlaceHolder_ucLocation_ddlLocation
+value : GUZ
+
+
+
+2019-02-20 12:05:19	catching classes that do not inherit from BaseException is not allowed
+id: ctl00_SiteContentPlaceHolder_FormView1_rblUS_OTHER_RELATIVE_IND_1
+value : None
+
+
+
+2019-02-20 12:09:06	catching classes that do not inherit from BaseException is not allowed
+id: ctl00_SiteContentPlaceHolder_ucLocation_ddlLocation
+value : None
+
+
+
+2019-02-20 12:09:06	catching classes that do not inherit from BaseException is not allowed
+id: ctl00_SiteContentPlaceHolder_ucLocation_ddlLocation
+value : None
+
+
+idName: ctl00_SiteContentPlaceHolder_ucLocation_ddlLocation
+value : GUZ
+
+
+
+2019-02-20 12:13:57	catching classes that do not inherit from BaseException is not allowed
+id: ctl00_SiteContentPlaceHolder_ApplicationRecovery1_txbSurname
+value : ZHOU
+
+
+
+2019-02-20 12:15:46	catching classes that do not inherit from BaseException is not allowed
+id: ctl00_SiteContentPlaceHolder_ucLocation_ddlLocation
+value : None
+
+
+
+2019-02-20 12:15:46	catching classes that do not inherit from BaseException is not allowed
+id: ctl00_SiteContentPlaceHolder_ucLocation_ddlLocation
+value : None
+
+
+idName: ctl00_SiteContentPlaceHolder_ucLocation_ddlLocation
+value : GUZ
+
+
+
+2019-02-20 12:16:55	catching classes that do not inherit from BaseException is not allowed
+id: ctl00_SiteContentPlaceHolder_ApplicationRecovery1_txbSurname
+value : ZHOU
+
+
+
+2019-02-20 12:18:26	catching classes that do not inherit from BaseException is not allowed
+id: ctl00_SiteContentPlaceHolder_ApplicationRecovery1_txbSurname
+value : ZHOU
+
+
+
+2019-02-20 12:22:11	catching classes that do not inherit from BaseException is not allowed
+id: ctl00_SiteContentPlaceHolder_FormView1_rblRemovalHearing_1
+value : None
+
+
+
+2019-02-20 12:22:22	catching classes that do not inherit from BaseException is not allowed
+id: ctl00_SiteContentPlaceHolder_FormView1_rblAttWoReimb_1
+value : None
+
+
+
+2019-02-20 12:22:44	catching classes that do not inherit from BaseException is not allowed
+id: ctl00_cphMain_imageFileUpload
+value : C:\Users\Administrator\Desktop\automation_us\photo.jpeg
+
+
+
+2019-02-20 12:24:06	catching classes that do not inherit from BaseException is not allowed
+id: ctl00_SiteContentPlaceHolder_ApplicationRecovery1_txbSurname
+value : ZHOU
+
+
+
+2019-02-20 12:25:30	catching classes that do not inherit from BaseException is not allowed
+id: ctl00_SiteContentPlaceHolder_ucLocation_ddlLocation
+value : None
+
+
+
+2019-02-20 12:25:30	catching classes that do not inherit from BaseException is not allowed
+id: ctl00_SiteContentPlaceHolder_ucLocation_ddlLocation
+value : None
+
+
+idName: ctl00_SiteContentPlaceHolder_ucLocation_ddlLocation
+value : GUZ
+
+
+
+2019-02-20 12:26:34	catching classes that do not inherit from BaseException is not allowed
+id: ctl00_SiteContentPlaceHolder_ucLocation_ddlLocation
+value : None
+
+
+
+2019-02-20 12:26:34	catching classes that do not inherit from BaseException is not allowed
+id: ctl00_SiteContentPlaceHolder_ucLocation_ddlLocation
+value : None
+
+
+idName: ctl00_SiteContentPlaceHolder_ucLocation_ddlLocation
+value : GUZ
+
+
+
+2019-02-20 12:27:38	catching classes that do not inherit from BaseException is not allowed
+id: c_default_ctl00_sitecontentplaceholder_uclocation_identifycaptcha1_defaultcaptcha_CaptchaImage
+value : None
+
+
+
+2019-02-20 12:28:46	catching classes that do not inherit from BaseException is not allowed
+id: ctl00_SiteContentPlaceHolder_ucLocation_ddlLocation
+value : None
+
+
+
+2019-02-20 12:28:46	catching classes that do not inherit from BaseException is not allowed
+id: ctl00_SiteContentPlaceHolder_ucLocation_ddlLocation
+value : None
+
+
+idName: ctl00_SiteContentPlaceHolder_ucLocation_ddlLocation
+value : GUZ
+
+
+
+2019-02-20 12:30:19	catching classes that do not inherit from BaseException is not allowed
+id: ctl00_SiteContentPlaceHolder_ApplicationRecovery1_txbSurname
+value : ZHOU
+
+
+
+2019-02-20 12:31:57	catching classes that do not inherit from BaseException is not allowed
+id: ctl00_SiteContentPlaceHolder_ApplicationRecovery1_txbSurname
+value : ZHOU
+
+
+
+2019-02-20 14:04:42	catching classes that do not inherit from BaseException is not allowed
+id: ctl00_SiteContentPlaceHolder_FormView1_tbxMAILING_ADDR_LN1
+value : Room 3203, Building 12, No. 1, Qiandengh
+
+
+
+2019-02-20 14:05:44	catching classes that do not inherit from BaseException is not allowed
+id: ctl00_SiteContentPlaceHolder_ucLocation_ddlLocation
+value : None
+
+
+
+2019-02-20 14:05:44	catching classes that do not inherit from BaseException is not allowed
+id: ctl00_SiteContentPlaceHolder_ucLocation_ddlLocation
+value : None
+
+
+idName: ctl00_SiteContentPlaceHolder_ucLocation_ddlLocation
+value : GUZ
+
+
+
+2019-02-20 14:13:40	catching classes that do not inherit from BaseException is not allowed
+id: ctl00_SiteContentPlaceHolder_ApplicationRecovery1_txbSurname
+value : ZHOU
+
+
+
+2019-02-20 14:14:56	catching classes that do not inherit from BaseException is not allowed
+id: ctl00_SiteContentPlaceHolder_ucLocation_ddlLocation
+value : None
+
+
+
+2019-02-20 14:14:56	catching classes that do not inherit from BaseException is not allowed
+id: ctl00_SiteContentPlaceHolder_ucLocation_ddlLocation
+value : None
+
+
+idName: ctl00_SiteContentPlaceHolder_ucLocation_ddlLocation
+value : GUZ
+
+
+
+2019-02-20 14:27:09	catching classes that do not inherit from BaseException is not allowed
+css selector: #create-addApplicants > span
+value : None
+
+
+

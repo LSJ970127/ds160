@@ -1,0 +1,27 @@
+2019-01-16 19:04:08	catching classes that do not inherit from BaseException is not allowed
+id: c_default_ctl00_sitecontentplaceholder_uclocation_identifycaptcha1_defaultcaptcha_CaptchaImage
+value : None
+
+
+
+2019-01-16 19:05:04	(1064, 'You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near \'Have you belonged to, contributed to, or worked for any...?" has not been answer\' at line 1')
+补充页:|The question "Have you belonged to, contributed to, or worked for any...?" has not been answered.|国家/地区尚未选
+
+2019-01-16 19:08:01	catching classes that do not inherit from BaseException is not allowed
+id: ctl00_SiteContentPlaceHolder_ApplicationRecovery1_txbSurname
+value : YANG
+
+
+
+2019-01-16 19:09:11	catching classes that do not inherit from BaseException is not allowed
+id: ctl00_SiteContentPlaceHolder_FormView1_rblRemovalHearing_1
+value : None
+
+
+
+2019-01-16 19:09:17	catching classes that do not inherit from BaseException is not allowed
+id: ctl00_SiteContentPlaceHolder_FormView1_rblAttWoReimb_1
+value : None
+
+
+

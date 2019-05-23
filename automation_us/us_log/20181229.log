@@ -1,0 +1,36 @@
+2018-12-29 08:31:11	Message: element not interactable
+  (Session info: chrome=69.0.3497.100)
+  (Driver info: chromedriver=2.42.591088 (7b2b2dca23cca0862f674758c9a3933e685c27d5),platform=Windows NT 6.1.7601 SP1 x86_64)
+
+css selector: body>div:nth-child(8) button
+value : None
+
+
+
+2018-12-29 08:31:48	catching classes that do not inherit from BaseException is not allowed
+xpath: //select
+value : None
+
+
+
+2018-12-29 08:32:12	catching classes that do not inherit from BaseException is not allowed
+id: loginPage:SiteTemplate:siteLogin:loginComponent:loginForm:username
+value : lijie0447@163.com
+
+
+
+2018-12-29 08:36:11	catching classes that do not inherit from BaseException is not allowed
+xpath: //select
+value : None
+
+
+
+2018-12-29 08:38:04	Message: element not interactable
+  (Session info: chrome=69.0.3497.100)
+  (Driver info: chromedriver=2.42.591088 (7b2b2dca23cca0862f674758c9a3933e685c27d5),platform=Windows NT 6.1.7601 SP1 x86_64)
+
+css selector: body>div:nth-child(8) button
+value : None
+
+
+

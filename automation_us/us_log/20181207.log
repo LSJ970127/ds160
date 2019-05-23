@@ -1,0 +1,9 @@
+2018-12-07 13:56:29	Message: stale element reference: element is not attached to the page document
+  (Session info: chrome=69.0.3497.100)
+  (Driver info: chromedriver=2.42.591088 (7b2b2dca23cca0862f674758c9a3933e685c27d5),platform=Windows NT 6.1.7601 SP1 x86_64)
+
+id: ctl00_SiteContentPlaceHolder_FormView1_ddlPPT_EXPIRE_DTEMonth
+value : JUN
+
+
+

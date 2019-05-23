@@ -1,0 +1,272 @@
+2018-10-17 09:43:24	catching classes that do not inherit from BaseException is not allowed
+id: ctl00_SiteContentPlaceHolder_ucLocation_ddlLocation
+value : None
+
+
+
+2018-10-17 09:46:01	Message: stale element reference: element is not attached to the page document
+  (Session info: chrome=69.0.3497.100)
+  (Driver info: chromedriver=2.42.591088 (7b2b2dca23cca0862f674758c9a3933e685c27d5),platform=Windows NT 6.1.7601 SP1 x86_64)
+
+id: ctl00_SiteContentPlaceHolder_FormView1_tbxPPT_EXPIREYear
+value : 2020
+
+
+
+2018-10-17 09:46:49	Message: stale element reference: element is not attached to the page document
+  (Session info: chrome=69.0.3497.100)
+  (Driver info: chromedriver=2.42.591088 (7b2b2dca23cca0862f674758c9a3933e685c27d5),platform=Windows NT 6.1.7601 SP1 x86_64)
+
+idName: ctl00_SiteContentPlaceHolder_FormView1_ddlTravelState
+value : CA
+
+
+
+2018-10-17 09:47:22	catching classes that do not inherit from BaseException is not allowed
+css selector: .error > li
+value : None
+
+
+
+2018-10-17 09:51:22	Message: stale element reference: element is not attached to the page document
+  (Session info: chrome=69.0.3497.100)
+  (Driver info: chromedriver=2.42.591088 (7b2b2dca23cca0862f674758c9a3933e685c27d5),platform=Windows NT 6.1.7601 SP1 x86_64)
+
+id: ctl00_SiteContentPlaceHolder_FormView1_tbxPPT_EXPIREYear
+value : 2020
+
+
+
+2018-10-17 09:51:40	Message: stale element reference: element is not attached to the page document
+  (Session info: chrome=69.0.3497.100)
+  (Driver info: chromedriver=2.42.591088 (7b2b2dca23cca0862f674758c9a3933e685c27d5),platform=Windows NT 6.1.7601 SP1 x86_64)
+
+id: ctl00_SiteContentPlaceHolder_FormView1_tbZIPCode
+value : 91776
+
+
+
+2018-10-17 09:51:55	Message: stale element reference: element is not attached to the page document
+  (Session info: chrome=69.0.3497.100)
+  (Driver info: chromedriver=2.42.591088 (7b2b2dca23cca0862f674758c9a3933e685c27d5),platform=Windows NT 6.1.7601 SP1 x86_64)
+
+id: ctl00_SiteContentPlaceHolder_FormView1_tbZIPCode
+value : 91776
+
+
+
+2018-10-17 09:56:00	Message: stale element reference: element is not attached to the page document
+  (Session info: chrome=69.0.3497.100)
+  (Driver info: chromedriver=2.42.591088 (7b2b2dca23cca0862f674758c9a3933e685c27d5),platform=Windows NT 6.1.7601 SP1 x86_64)
+
+id: ctl00_SiteContentPlaceHolder_FormView1_tbxPPT_EXPIREYear
+value : 2020
+
+
+
+2018-10-17 09:56:20	Message: stale element reference: element is not attached to the page document
+  (Session info: chrome=69.0.3497.100)
+  (Driver info: chromedriver=2.42.591088 (7b2b2dca23cca0862f674758c9a3933e685c27d5),platform=Windows NT 6.1.7601 SP1 x86_64)
+
+id: ctl00_SiteContentPlaceHolder_FormView1_tbZIPCode
+value : 91776
+
+
+
+2018-10-17 09:56:35	Message: stale element reference: element is not attached to the page document
+  (Session info: chrome=69.0.3497.100)
+  (Driver info: chromedriver=2.42.591088 (7b2b2dca23cca0862f674758c9a3933e685c27d5),platform=Windows NT 6.1.7601 SP1 x86_64)
+
+id: ctl00_SiteContentPlaceHolder_FormView1_tbZIPCode
+value : 91776
+
+
+
+2018-10-17 09:56:56	Message: stale element reference: element is not attached to the page document
+  (Session info: chrome=69.0.3497.100)
+  (Driver info: chromedriver=2.42.591088 (7b2b2dca23cca0862f674758c9a3933e685c27d5),platform=Windows NT 6.1.7601 SP1 x86_64)
+
+id: ctl00_SiteContentPlaceHolder_FormView1_tbZIPCode
+value : 91776
+
+
+
+2018-10-17 09:57:19	Message: stale element reference: element is not attached to the page document
+  (Session info: chrome=69.0.3497.100)
+  (Driver info: chromedriver=2.42.591088 (7b2b2dca23cca0862f674758c9a3933e685c27d5),platform=Windows NT 6.1.7601 SP1 x86_64)
+
+idName: ctl00_SiteContentPlaceHolder_FormView1_ddlTravelState
+value : CA
+
+
+
+2018-10-17 10:01:43	Message: stale element reference: element is not attached to the page document
+  (Session info: chrome=69.0.3497.100)
+  (Driver info: chromedriver=2.42.591088 (7b2b2dca23cca0862f674758c9a3933e685c27d5),platform=Windows NT 6.1.7601 SP1 x86_64)
+
+id: ctl00_SiteContentPlaceHolder_FormView1_tbxPPT_EXPIREYear
+value : 2020
+
+
+
+2018-10-17 10:05:44	Message: stale element reference: element is not attached to the page document
+  (Session info: chrome=69.0.3497.100)
+  (Driver info: chromedriver=2.42.591088 (7b2b2dca23cca0862f674758c9a3933e685c27d5),platform=Windows NT 6.1.7601 SP1 x86_64)
+
+idName: ctl00_SiteContentPlaceHolder_FormView1_ddlWhoIsPaying
+value : S
+
+
+
+2018-10-17 10:09:56	catching classes that do not inherit from BaseException is not allowed
+css selector: .error > li
+value : None
+
+
+
+2018-10-17 12:26:26	catching classes that do not inherit from BaseException is not allowed
+id: loginPage:SiteTemplate:siteLogin:loginComponent:loginForm:username
+value : janice.fu@lettours.com
+
+
+
+2018-10-17 12:36:17	Message: stale element reference: element is not attached to the page document
+  (Session info: chrome=69.0.3497.100)
+  (Driver info: chromedriver=2.42.591088 (7b2b2dca23cca0862f674758c9a3933e685c27d5),platform=Windows NT 6.1.7601 SP1 x86_64)
+
+id: ctl00_SiteContentPlaceHolder_FormView1_tbxPPT_EXPIREYear
+value : 2020
+
+
+
+2018-10-17 12:41:04	Message: unknown error: session deleted because of page crash
+from unknown error: cannot determine loading status
+from tab crashed
+  (Session info: chrome=69.0.3497.100)
+  (Driver info: chromedriver=2.42.591088 (7b2b2dca23cca0862f674758c9a3933e685c27d5),platform=Windows NT 6.1.7601 SP1 x86_64)
+
+id: ctl00_SiteContentPlaceHolder_UpdateButton3
+value : None
+
+
+
+2018-10-17 12:55:06	catching classes that do not inherit from BaseException is not allowed
+id: loginPage:SiteTemplate:siteLogin:loginComponent:loginForm:recaptcha_response_field
+value : ddroq
+
+
+
+2018-10-17 12:55:07	catching classes that do not inherit from BaseException is not allowed
+id: loginPage:SiteTemplate:siteLogin:loginComponent:loginForm:password
+value : janice522
+
+
+
+2018-10-17 13:01:54	catching classes that do not inherit from BaseException is not allowed
+css selector: #create-user > span
+value : None
+
+
+
+2018-10-17 13:14:44	catching classes that do not inherit from BaseException is not allowed
+css selector: .error > li
+value : None
+
+
+
+2018-10-17 13:18:16	catching classes that do not inherit from BaseException is not allowed
+css selector: .error > li
+value : None
+
+
+
+2018-10-17 17:23:31	catching classes that do not inherit from BaseException is not allowed
+id: ctl00_SiteContentPlaceHolder_FormView1_dlPrincipalAppTravel_ctl00_ddlOtherPurpose
+value : None
+
+
+
+2018-10-17 17:23:47	catching classes that do not inherit from BaseException is not allowed
+id: ctl00_SiteContentPlaceHolder_FormView1_dlPrincipalAppTravel_ctl00_ddlOtherPurpose
+value : None
+
+
+
+2018-10-17 17:24:03	catching classes that do not inherit from BaseException is not allowed
+id: ctl00_SiteContentPlaceHolder_FormView1_dlPrincipalAppTravel_ctl00_ddlOtherPurpose
+value : None
+
+
+
+2018-10-17 17:24:19	catching classes that do not inherit from BaseException is not allowed
+id: ctl00_SiteContentPlaceHolder_FormView1_dlPrincipalAppTravel_ctl00_ddlOtherPurpose
+value : None
+
+
+
+2018-10-17 17:24:28	catching classes that do not inherit from BaseException is not allowed
+id: ctl00_SiteContentPlaceHolder_FormView1_ddlTRAVEL_DTEDay
+value : 30
+
+
+
+2018-10-17 17:27:55	catching classes that do not inherit from BaseException is not allowed
+id: ctl00_SiteContentPlaceHolder_ApplicationRecovery1_txbSurname
+value : LI
+
+
+
+2018-10-17 17:29:09	catching classes that do not inherit from BaseException is not allowed
+id: ctl00_SiteContentPlaceHolder_FormView1_ddlTRAVEL_DTEDay
+value : 30
+
+
+
+2018-10-17 17:31:16	catching classes that do not inherit from BaseException is not allowed
+id: ctl00_SiteContentPlaceHolder_lnkNew
+value : None
+
+
+
+2018-10-17 17:53:17	catching classes that do not inherit from BaseException is not allowed
+id: ctl00_SiteContentPlaceHolder_ucLocation_ddlLocation
+value : None
+
+
+
+2018-10-17 18:00:26	Message: stale element reference: element is not attached to the page document
+  (Session info: chrome=69.0.3497.100)
+  (Driver info: chromedriver=2.42.591088 (7b2b2dca23cca0862f674758c9a3933e685c27d5),platform=Windows NT 6.1.7601 SP1 x86_64)
+
+id: ctl00_SiteContentPlaceHolder_FormView1_tbxPPT_EXPIREYear
+value : 2024
+
+
+
+2018-10-17 18:00:37	Message: stale element reference: element is not attached to the page document
+  (Session info: chrome=69.0.3497.100)
+  (Driver info: chromedriver=2.42.591088 (7b2b2dca23cca0862f674758c9a3933e685c27d5),platform=Windows NT 6.1.7601 SP1 x86_64)
+
+idName: ctl00_SiteContentPlaceHolder_FormView1_ddlWhoIsPaying
+value : S
+
+
+
+2018-10-17 18:29:33	Message: stale element reference: element is not attached to the page document
+  (Session info: chrome=69.0.3497.100)
+  (Driver info: chromedriver=2.42.591088 (7b2b2dca23cca0862f674758c9a3933e685c27d5),platform=Windows NT 6.1.7601 SP1 x86_64)
+
+id: ctl00_SiteContentPlaceHolder_FormView1_rblMOTHER_LIVE_IN_US_IND_1
+value : None
+
+
+
+2018-10-17 18:39:02	Message: stale element reference: element is not attached to the page document
+  (Session info: chrome=69.0.3497.100)
+  (Driver info: chromedriver=2.42.591088 (7b2b2dca23cca0862f674758c9a3933e685c27d5),platform=Windows NT 6.1.7601 SP1 x86_64)
+
+id: ctl00_SiteContentPlaceHolder_FormView1_tbxPPT_EXPIREYear
+value : 2024
+
+
+

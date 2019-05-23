@@ -1,0 +1,103 @@
+2018-12-06 17:41:30	Message: Cannot locate option with value: 08
+
+idName: ctl00_SiteContentPlaceHolder_FormView1_DListSpouse_ctl00_ddlDomDay
+value : 08
+
+
+
+2018-12-06 17:44:51	Message: Cannot locate option with value: 08
+
+idName: ctl00_SiteContentPlaceHolder_FormView1_DListSpouse_ctl00_ddlDomDay
+value : 08
+
+
+
+2018-12-06 17:48:42	Message: Cannot locate option with value: 08
+
+idName: ctl00_SiteContentPlaceHolder_FormView1_DListSpouse_ctl00_ddlDomDay
+value : 08
+
+
+
+2018-12-06 17:51:08	Message: Cannot locate option with value: 08
+
+idName: ctl00_SiteContentPlaceHolder_FormView1_DListSpouse_ctl00_ddlDomDay
+value : 08
+
+
+
+2018-12-06 17:57:36	catching classes that do not inherit from BaseException is not allowed
+id: ctl00_SiteContentPlaceHolder_ucLocation_ddlLocation
+value : None
+
+
+
+2018-12-06 18:06:17	Message: Cannot locate option with value: 08
+
+idName: ctl00_SiteContentPlaceHolder_FormView1_DListSpouse_ctl00_ddlDomDay
+value : 08
+
+
+
+2018-12-06 18:10:17	Message: Cannot locate option with value: 08
+
+idName: ctl00_SiteContentPlaceHolder_FormView1_DListSpouse_ctl00_ddlDomDay
+value : 08
+
+
+
+2018-12-06 18:14:41	argument of type 'int' is not iterable
+idName: ctl00_SiteContentPlaceHolder_FormView1_DListSpouse_ctl00_ddlDomDay
+value : 8
+
+
+
+2018-12-06 18:14:41	argument of type 'int' is not iterable
+idName: ctl00_SiteContentPlaceHolder_FormView1_DListSpouse_ctl00_ddlDomDay
+value : 8
+
+
+
+2018-12-06 18:16:31	Message: element not interactable
+  (Session info: chrome=69.0.3497.100)
+  (Driver info: chromedriver=2.42.591088 (7b2b2dca23cca0862f674758c9a3933e685c27d5),platform=Windows NT 6.1.7601 SP1 x86_64)
+
+id: ctl00_SiteContentPlaceHolder_FormView1_ValidationSummary
+value : None
+
+
+
+2018-12-06 18:18:12	catching classes that do not inherit from BaseException is not allowed
+css selector: #create-addApplicants > span
+value : None
+
+
+
+2018-12-06 18:22:51	catching classes that do not inherit from BaseException is not allowed
+id: ctl00_SiteContentPlaceHolder_FormView1_rblRemovalHearing_1
+value : None
+
+
+
+2018-12-06 18:22:58	catching classes that do not inherit from BaseException is not allowed
+id: ctl00_SiteContentPlaceHolder_FormView1_rblAttWoReimb_1
+value : None
+
+
+
+2018-12-06 18:31:40	Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=69.0.3497.100)
+  (Driver info: chromedriver=2.42.591088 (7b2b2dca23cca0862f674758c9a3933e685c27d5),platform=Windows NT 6.1.7601 SP1 x86_64)
+
+idName: ctl00_SiteContentPlaceHolder_ucLocation_ddlLocation
+value : BEJ
+
+
+
+2018-12-06 18:47:04	catching classes that do not inherit from BaseException is not allowed
+id: loginPage:SiteTemplate:siteLogin:loginComponent:loginForm:username
+value : qdyou_net@163.com
+
+
+

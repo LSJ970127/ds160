@@ -1,0 +1,270 @@
+2019-02-13 09:44:17	catching classes that do not inherit from BaseException is not allowed
+xpath: //select
+value : None
+
+
+
+2019-02-13 09:45:13	catching classes that do not inherit from BaseException is not allowed
+css selector: #ctl00_nav_side1 > ul > li:nth-child(3) > a
+value : None
+
+
+
+2019-02-13 09:46:10	catching classes that do not inherit from BaseException is not allowed
+css selector: #ctl00_nav_side1 > ul > li:nth-child(3) > a
+value : None
+
+
+
+2019-02-13 09:48:03	catching classes that do not inherit from BaseException is not allowed
+css selector: #ctl00_nav_side1 > ul > li:nth-child(3) > a
+value : None
+
+
+
+2019-02-13 10:16:06	catching classes that do not inherit from BaseException is not allowed
+xpath: //select
+value : None
+
+
+
+2019-02-13 10:20:27	catching classes that do not inherit from BaseException is not allowed
+id: ctl00_SiteContentPlaceHolder_FormView1_tbxARRIVAL_US_DTEYear
+value : 2019
+
+
+
+2019-02-13 10:20:33	catching classes that do not inherit from BaseException is not allowed
+id: ctl00_SiteContentPlaceHolder_FormView1_tbxTRAVEL_DTEYear
+value : 2018
+
+
+
+2019-02-13 10:41:15	catching classes that do not inherit from BaseException is not allowed
+id: ctl00_SiteContentPlaceHolder_ucLocation_ddlLocation
+value : None
+
+
+
+2019-02-13 10:41:15	catching classes that do not inherit from BaseException is not allowed
+id: ctl00_SiteContentPlaceHolder_ucLocation_ddlLocation
+value : None
+
+
+idName: ctl00_SiteContentPlaceHolder_ucLocation_ddlLocation
+value : BEJ
+
+
+
+2019-02-13 10:43:11	catching classes that do not inherit from BaseException is not allowed
+id: ctl00_SiteContentPlaceHolder_ucLocation_ddlLocation
+value : None
+
+
+
+2019-02-13 10:43:11	catching classes that do not inherit from BaseException is not allowed
+id: ctl00_SiteContentPlaceHolder_ucLocation_ddlLocation
+value : None
+
+
+idName: ctl00_SiteContentPlaceHolder_ucLocation_ddlLocation
+value : BEJ
+
+
+
+2019-02-13 10:45:11	catching classes that do not inherit from BaseException is not allowed
+id: loginPage:SiteTemplate:siteLogin:loginComponent:loginForm:password
+value : 5678tyui
+
+
+
+2019-02-13 10:45:12	catching classes that do not inherit from BaseException is not allowed
+xpath: //select
+value : None
+
+
+
+2019-02-13 10:48:15	catching classes that do not inherit from BaseException is not allowed
+xpath: //select
+value : None
+
+
+
+2019-02-13 10:51:38	Message: timeout
+  (Session info: chrome=71.0.3578.98)
+  (Driver info: chromedriver=2.42.591088 (7b2b2dca23cca0862f674758c9a3933e685c27d5),platform=Windows NT 6.1.7601 SP1 x86_64)
+
+idName: ctl00_SiteContentPlaceHolder_ucLocation_ddlLocation
+value : BEJ
+
+
+
+2019-02-13 11:00:22	catching classes that do not inherit from BaseException is not allowed
+id: ctl00_SiteContentPlaceHolder_FormView1_tbxUS_POC_ADDR_LN1
+value : 1605 Broadway between 48th and 49th Stre
+
+
+
+2019-02-13 11:09:22	catching classes that do not inherit from BaseException is not allowed
+id: c_default_ctl00_sitecontentplaceholder_uclocation_identifycaptcha1_defaultcaptcha_CaptchaImage
+value : None
+
+
+
+2019-02-13 11:11:16	catching classes that do not inherit from BaseException is not allowed
+id: ctl00_SiteContentPlaceHolder_lnkNew
+value : None
+
+
+
+2019-02-13 11:17:20	catching classes that do not inherit from BaseException is not allowed
+id: ctl00_SiteContentPlaceHolder_ApplicationRecovery1_txbSurname
+value : LONG
+
+
+
+2019-02-13 11:20:35	catching classes that do not inherit from BaseException is not allowed
+id: ctl00_SiteContentPlaceHolder_FormView1_rblUS_OTHER_RELATIVE_IND_1
+value : None
+
+
+
+2019-02-13 11:23:46	catching classes that do not inherit from BaseException is not allowed
+id: ctl00_SiteContentPlaceHolder_FormView1_tbxUS_POC_ADDR_LN1
+value : 1605 Broadway between 48th and 49th Stre
+
+
+
+2019-02-13 11:32:07	catching classes that do not inherit from BaseException is not allowed
+id: ctl00_SiteContentPlaceHolder_FormView1_tbxARRIVAL_US_DTEYear
+value : 2019
+
+
+
+2019-02-13 11:32:12	catching classes that do not inherit from BaseException is not allowed
+id: ctl00_SiteContentPlaceHolder_FormView1_tbxTRAVEL_DTEYear
+value : 2018
+
+
+
+2019-02-13 11:34:14	catching classes that do not inherit from BaseException is not allowed
+id: ctl00_SiteContentPlaceHolder_ucLocation_ddlLocation
+value : None
+
+
+
+2019-02-13 11:34:14	catching classes that do not inherit from BaseException is not allowed
+id: ctl00_SiteContentPlaceHolder_ucLocation_ddlLocation
+value : None
+
+
+idName: ctl00_SiteContentPlaceHolder_ucLocation_ddlLocation
+value : BEJ
+
+
+
+2019-02-13 11:37:56	catching classes that do not inherit from BaseException is not allowed
+css selector: #create-addApplicants > span
+value : None
+
+
+
+2019-02-13 11:39:25	catching classes that do not inherit from BaseException is not allowed
+id: ctl00_SiteContentPlaceHolder_FormView1_tbxUS_POC_ADDR_LN1
+value : 1605 Broadway between 48th and 49th Stre
+
+
+
+2019-02-13 11:40:18	catching classes that do not inherit from BaseException is not allowed
+id: thePage:SiteTemplate:theForm:j_id172:0
+value : None
+
+
+
+2019-02-13 11:42:11	catching classes that do not inherit from BaseException is not allowed
+css selector: #create-addApplicants > span
+value : None
+
+
+
+2019-02-13 11:49:35	Message: element not interactable
+  (Session info: chrome=71.0.3578.98)
+  (Driver info: chromedriver=2.42.591088 (7b2b2dca23cca0862f674758c9a3933e685c27d5),platform=Windows NT 6.1.7601 SP1 x86_64)
+
+css selector: body>div:nth-child(8) button
+value : None
+
+
+
+2019-02-13 11:52:57	catching classes that do not inherit from BaseException is not allowed
+xpath: //select
+value : None
+
+
+
+2019-02-13 11:55:17	Message: element not interactable
+  (Session info: chrome=71.0.3578.98)
+  (Driver info: chromedriver=2.42.591088 (7b2b2dca23cca0862f674758c9a3933e685c27d5),platform=Windows NT 6.1.7601 SP1 x86_64)
+
+css selector: body>div:nth-child(8) button
+value : None
+
+
+
+2019-02-13 11:59:40	Message: element not interactable
+  (Session info: chrome=71.0.3578.98)
+  (Driver info: chromedriver=2.42.591088 (7b2b2dca23cca0862f674758c9a3933e685c27d5),platform=Windows NT 6.1.7601 SP1 x86_64)
+
+css selector: body>div:nth-child(8) button
+value : None
+
+
+
+2019-02-13 12:03:16	Message: element not interactable
+  (Session info: chrome=71.0.3578.98)
+  (Driver info: chromedriver=2.42.591088 (7b2b2dca23cca0862f674758c9a3933e685c27d5),platform=Windows NT 6.1.7601 SP1 x86_64)
+
+css selector: body>div:nth-child(8) button
+value : None
+
+
+
+2019-02-13 12:03:28	catching classes that do not inherit from BaseException is not allowed
+xpath: //*[@id="myCalendarTable"]/tbody//td[contains(text(),"February 22")]
+value : None
+
+
+
+2019-02-13 12:57:45	Message: element not interactable
+  (Session info: headless chrome=71.0.3578.98)
+  (Driver info: chromedriver=2.42.591088 (7b2b2dca23cca0862f674758c9a3933e685c27d5),platform=Windows NT 6.1.7601 SP1 x86_64)
+
+css selector: body>div:nth-child(8) button
+value : None
+
+
+
+2019-02-13 13:43:23	catching classes that do not inherit from BaseException is not allowed
+xpath: //select
+value : None
+
+
+
+2019-02-13 13:51:15	catching classes that do not inherit from BaseException is not allowed
+xpath: //select
+value : None
+
+
+
+2019-02-13 13:59:17	catching classes that do not inherit from BaseException is not allowed
+xpath: //select
+value : None
+
+
+
+2019-02-13 16:01:57	catching classes that do not inherit from BaseException is not allowed
+xpath: //select
+value : None
+
+
+

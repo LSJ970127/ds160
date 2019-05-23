@@ -1,0 +1,99 @@
+2019-01-03 15:25:35	catching classes that do not inherit from BaseException is not allowed
+css selector: #create-addApplicants > span
+value : None
+
+
+
+2019-01-03 15:25:47	catching classes that do not inherit from BaseException is not allowed
+css selector: #create-addApplicants > span
+value : None
+
+
+
+2019-01-03 15:25:47	Message: unknown error: Element <span class="ui-button-text">...</span> is not clickable at point (474, 306). Other element would receive the click: <ul role="alert" class="error">...</ul>
+  (Session info: chrome=71.0.3578.98)
+  (Driver info: chromedriver=2.42.591088 (7b2b2dca23cca0862f674758c9a3933e685c27d5),platform=Windows NT 6.1.7601 SP1 x86_64)
+
+css selector: #create-user > span
+value : None
+
+
+
+2019-01-03 15:27:24	catching classes that do not inherit from BaseException is not allowed
+css selector: #create-addApplicants > span
+value : None
+
+
+
+2019-01-03 15:27:37	catching classes that do not inherit from BaseException is not allowed
+css selector: #create-addApplicants > span
+value : None
+
+
+
+2019-01-03 15:27:37	Message: unknown error: Element <span class="ui-button-text">...</span> is not clickable at point (474, 306). Other element would receive the click: <ul role="alert" class="error">...</ul>
+  (Session info: chrome=71.0.3578.98)
+  (Driver info: chromedriver=2.42.591088 (7b2b2dca23cca0862f674758c9a3933e685c27d5),platform=Windows NT 6.1.7601 SP1 x86_64)
+
+css selector: #create-user > span
+value : None
+
+
+
+2019-01-03 15:38:42	catching classes that do not inherit from BaseException is not allowed
+css selector: #create-addApplicants > span
+value : None
+
+
+
+2019-01-03 15:38:55	catching classes that do not inherit from BaseException is not allowed
+css selector: #create-addApplicants > span
+value : None
+
+
+
+2019-01-03 15:38:55	Message: unknown error: Element <span class="ui-button-text">...</span> is not clickable at point (474, 306). Other element would receive the click: <ul role="alert" class="error">...</ul>
+  (Session info: chrome=71.0.3578.98)
+  (Driver info: chromedriver=2.42.591088 (7b2b2dca23cca0862f674758c9a3933e685c27d5),platform=Windows NT 6.1.7601 SP1 x86_64)
+
+css selector: #create-user > span
+value : None
+
+
+
+2019-01-03 17:24:08	catching classes that do not inherit from BaseException is not allowed
+xpath: //select
+value : None
+
+
+
+2019-01-03 17:31:30	catching classes that do not inherit from BaseException is not allowed
+id: loginPage:SiteTemplate:siteLogin:loginComponent:loginForm:password
+value : janice5222
+
+
+
+2019-01-03 17:31:30	catching classes that do not inherit from BaseException is not allowed
+id: loginPage:SiteTemplate:siteLogin:loginComponent:loginForm:password
+value : janice5222
+
+
+
+2019-01-03 17:31:30	catching classes that do not inherit from BaseException is not allowed
+id: loginPage:SiteTemplate:siteLogin:loginComponent:loginForm:password
+value : janice5222
+
+
+
+2019-01-03 17:31:30	catching classes that do not inherit from BaseException is not allowed
+id: loginPage:SiteTemplate:siteLogin:loginComponent:loginForm:password
+value : janice5222
+
+
+
+2019-01-03 17:31:31	catching classes that do not inherit from BaseException is not allowed
+xpath: //select
+value : None
+
+
+
